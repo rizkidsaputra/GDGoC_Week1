@@ -1,17 +1,17 @@
-# Todo List - GDGoC Week 1
+# Todo List - GDGOC Week 1
 
-Ini adalah proyek sederhana **Todo List** yang dibuat dalam sesi **Web Development Study Group GDGOC (Google Developer Group Open Community) Telkom University Week 1**. Proyek ini dibuat menggunakan **HTML, CSS, dan JavaScript**.
+This is a simple **Todo List** project created during the **Web Development Study Group GDGOC (Google Developer Group Open Community) Telkom University Week 1** session. This project is built using **HTML, CSS, and JavaScript**.
 
-## 📌 Fitur
-- Menambahkan tugas baru
-- Mengedit tugas yang sudah ada
-- Menghapus tugas dari daftar
+## 📌 Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks from the list
 
-## 📂 Struktur Proyek
+## 📂 Project Structure
 ```
 /todo-list
-│── index.html        # Halaman utama todo list
-│── style.css         # Styling untuk tampilan
-│── script.js         # Logika interaktif (menambah, mengedit, dan menghapus tugas)
-│── README.md         # Dokumentasi proyek
+│── index.html        # Main todo list page
+│── style.css         # Styling for the interface
+│── script.js         # Interactive logic (adding, editing, and deleting tasks)
+│── README.md         # Project documentation
 ```
