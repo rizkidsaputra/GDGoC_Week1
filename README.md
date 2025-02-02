@@ -1,6 +1,6 @@
-# Todo List - GDGOC Week 1
+# Todo List - GDGoC Week 1
 
-This is a simple **Todo List** project created during the **Web Development Study Group GDGOC (Google Developer Group Open Community) Telkom University Week 1** session. This project is built using **HTML, CSS, and JavaScript**.
+This is a simple **Todo List** project created during the **Web Development Study Group GDGoC (Google Developer Group on Campus) Telkom University Week 1** session. This project is built using **HTML, CSS, and JavaScript**.
 
 ## 📌 Features
 - Add new tasks
